@@ -1,0 +1,4 @@
+﻿  superMarket billing appliactions.cpp
+E:\C++\superMarket billing appliactions\superMarket billing appliactions\superMarket billing appliactions.cpp(155,46): warning C4101: 'code': unreferenced local variable
+E:\C++\superMarket billing appliactions\superMarket billing appliactions\superMarket billing appliactions.cpp(291,13): warning C4553: '==': result of expression not used; did you intend '='?
+  superMarket billing appliactions.vcxproj -> E:\C++\superMarket billing appliactions\x64\Debug\superMarket billing appliactions.exe
